@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import ImageLoader from './ImageLoader';
 
 const loadedImage = document.getElementsByClassName('loaded-images')[0];
